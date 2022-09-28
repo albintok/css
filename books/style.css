@@ -1,0 +1,24 @@
+.child{
+    float: left;
+    width: 200px;
+    height: 350px;
+    background-color:#e1eded;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.child-one{
+    margin-bottom:200px;
+    margin-left: auto;   
+}
+.img{
+    height:235px;
+}
+.img1{
+    width:200px;
+    height: 235px;
+}
+.img2{
+    height: 235px;
+    width:199px;
+}

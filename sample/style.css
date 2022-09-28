@@ -1,0 +1,13 @@
+h1{color:red;
+    border: 1px solid yellow;
+}
+#id_one{
+    color:black;
+    border: 1px solid #9932a8;
+
+}
+.none{
+    color:black;
+    border: 1px solid #9932a8
+
+}
