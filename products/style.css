@@ -1,0 +1,75 @@
+body{
+    width: 100vw;
+    height: 500px;
+    background-color: white;
+}
+
+
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+
+    
+
+}
+.child{
+    height: 400px;
+    width: 24%;
+    background-color:white;
+    border: 1px solid black;
+    text-align: center;
+
+
+}
+.second{
+    margin-top:10px;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.sec{
+    height: 400px;
+    width: 24%;
+    background-color:white;
+    border: 1px solid black;
+    text-align: center;
+
+
+}
+.pic1{
+    height:330px;
+    width:310px;
+}
+.pic2{
+    height:350px;
+    width:310px;
+}
+.pic3{
+    height:350px;
+    width:310px;
+}
+.pic4{
+    height:350px;
+    width:310px;
+}
+.pic5{
+    height:350px;
+    width:310px;
+}
+.pic6{
+    height:350px;
+    width:310px;
+}
+.pic7{
+    height:350px;
+    width:310px;
+}
+.pic8{
+    height:350px;
+    width:310px;
+}
+.pic1int{
+    background-color: black;
+    color: white;
+}
