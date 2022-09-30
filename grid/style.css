@@ -1,0 +1,15 @@
+.child{
+    height: 50px;
+    
+    
+    background-color: yellow;
+    
+    border: 1px solid black;
+}
+.parent{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 400px;
+    width: 600px;
+    background-color: wheat;
+}

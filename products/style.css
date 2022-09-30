@@ -12,11 +12,14 @@ body{
     
 
 }
+.hone{
+    font-family: 'Alkalami', serif;
+}
 .child{
-    height: 400px;
-    width: 24%;
-    background-color:white;
-    border: 1px solid black;
+    height: 300px;
+    width: 22%;
+    background-color:rgb(209, 221, 235);
+    border: 2px solid black;
     text-align: center;
 
 
@@ -29,46 +32,20 @@ body{
 
 }
 .sec{
-    height: 400px;
-    width: 24%;
-    background-color:white;
+    height: 300px;
+    width: 22%;
+    background-color:rgb(209, 221, 235);
     border: 1px solid black;
     text-align: center;
 
 
 }
-.pic1{
-    height:330px;
-    width:310px;
+.pic{
+    height:230px;
+    width:330px;
+
 }
-.pic2{
-    height:350px;
-    width:310px;
-}
-.pic3{
-    height:350px;
-    width:310px;
-}
-.pic4{
-    height:350px;
-    width:310px;
-}
-.pic5{
-    height:350px;
-    width:310px;
-}
-.pic6{
-    height:350px;
-    width:310px;
-}
-.pic7{
-    height:350px;
-    width:310px;
-}
-.pic8{
-    height:350px;
-    width:310px;
-}
+
 .pic1int{
     background-color: black;
     color: white;
