@@ -1,5 +1,4 @@
 .child{
-    height: 50px;
     
     
     background-color: yellow;
@@ -7,9 +6,32 @@
     border: 1px solid black;
 }
 .parent{
+    height: 800px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    height: 400px;
-    width: 600px;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
     background-color: wheat;
+}
+.five{
+    background-color: black;
+    /* grid-column-start: 1;
+    grid-column-end: 3; */
+    /* grid-row-start: 2;
+    grid-row-end: 4; */
+    /* grid-row-start: 2;
+    grid-row-end: 4; */
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+.one{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    background-color: black;
+}
+.nine{
+    grid-column-start: 3;
+    grid-column-end: 4;
+    background-color: black;
+
 }
